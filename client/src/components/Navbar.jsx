@@ -21,8 +21,6 @@ const Navbar = () => {
         <li class="nav-item"><a href="#" class="nav-link text-black">Contact</a></li>
       </ul>
     </div>
-
-    <div onClick={handleNav} className="hee">
       </div>
     
       </div>
