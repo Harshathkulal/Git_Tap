@@ -1,2 +1,2 @@
 # Git_Tap
-App used to learn GIT Commands
+App used to learn GIT Command
