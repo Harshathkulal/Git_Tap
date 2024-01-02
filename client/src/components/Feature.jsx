@@ -58,7 +58,7 @@ Takes the staged snapshot and commits it to the project history. Combined with g
         <svg class="bi text-body-secondary flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#tools"></use></svg>
         <div>
           <h3 class="fw-bold mb-0 fs-4 text-body-emphasis">git pull</h3>
-          <p>Pulling is the automated version of git fetch. It downloads a branch from a remote repository, then immediately merges it into the current branch. This is the Git equivalent of svn update.</p>
+          <p>svn update.</p>
         </div>      
       </div>
     </div>
