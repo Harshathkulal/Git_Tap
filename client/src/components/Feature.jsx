@@ -43,7 +43,7 @@ const Feature = () => {
         <svg class="bi text-body-secondary flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#toggles2"></use></svg>
         <div>
           <h3 class="fw-bold mb-0 fs-4 text-body-emphasis">git status</h3>
-          <p>Displays the state of the working directory and the staged snapshot. You’ll want to run this in conjunction with git add and git commit to see exactly what’s being included in the next snapshot.</p>
+          <p>Displays the state of the working directory and the staged snapshot.next snapshot.</p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
