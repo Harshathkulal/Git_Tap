@@ -15,7 +15,7 @@ const Feature = () => {
         <svg class="bi text-body-secondary flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#cpu-fill"></use></svg>
         <div>
           <h3 class="fw-bold mb-0 fs-4 text-body-emphasis">git add</h3>
-          <p>Moves changes from the working directory to the staging area </p>
+          <p>Movem the workiry to the staging area </p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
